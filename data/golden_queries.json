@@ -1,0 +1,154 @@
+[
+  {
+    "query": "charged two times for the same purchase",
+    "relevant_labels": [
+      "billing_double_charge"
+    ]
+  },
+  {
+    "query": "still waiting for my money back",
+    "relevant_labels": [
+      "refund_delay"
+    ]
+  },
+  {
+    "query": "refund not processed after return",
+    "relevant_labels": [
+      "refund_delay"
+    ]
+  },
+  {
+    "query": "card rejected when paying",
+    "relevant_labels": [
+      "payment_declined"
+    ]
+  },
+  {
+    "query": "discount code is not accepted",
+    "relevant_labels": [
+      "coupon_invalid"
+    ]
+  },
+  {
+    "query": "package has not arrived after the expected date",
+    "relevant_labels": [
+      "delivery_late"
+    ]
+  },
+  {
+    "query": "received a different product than ordered",
+    "relevant_labels": [
+      "wrong_item"
+    ]
+  },
+  {
+    "query": "products missing from my parcel",
+    "relevant_labels": [
+      "missing_item"
+    ]
+  },
+  {
+    "query": "cannot sign in with my password",
+    "relevant_labels": [
+      "login_failure"
+    ]
+  },
+  {
+    "query": "verification sms never comes",
+    "relevant_labels": [
+      "otp_not_received"
+    ]
+  },
+  {
+    "query": "OTP code not delivered",
+    "relevant_labels": [
+      "otp_not_received"
+    ]
+  },
+  {
+    "query": "account blocked after failed attempts",
+    "relevant_labels": [
+      "account_locked"
+    ]
+  },
+  {
+    "query": "app closes by itself randomly",
+    "relevant_labels": [
+      "app_crash",
+      "crash_after_update"
+    ]
+  },
+  {
+    "query": "app crashing since the latest update",
+    "relevant_labels": [
+      "crash_after_update",
+      "app_crash"
+    ]
+  },
+  {
+    "query": "app is laggy and slow to load",
+    "relevant_labels": [
+      "slow_performance"
+    ]
+  },
+  {
+    "query": "phone battery dies fast",
+    "relevant_labels": [
+      "battery_drain"
+    ]
+  },
+  {
+    "query": "too many push alerts",
+    "relevant_labels": [
+      "notification_spam"
+    ]
+  },
+  {
+    "query": "no internet connection at home",
+    "relevant_labels": [
+      "internet_outage"
+    ]
+  },
+  {
+    "query": "network down in my area",
+    "relevant_labels": [
+      "internet_outage"
+    ]
+  },
+  {
+    "query": "big bill for using data abroad",
+    "relevant_labels": [
+      "roaming_charges"
+    ]
+  },
+  {
+    "query": "flight got cancelled need rebooking",
+    "relevant_labels": [
+      "flight_cancelled"
+    ]
+  },
+  {
+    "query": "airline lost my suitcase",
+    "relevant_labels": [
+      "baggage_lost"
+    ]
+  },
+  {
+    "query": "how do I stop my membership",
+    "relevant_labels": [
+      "cancel_subscription"
+    ]
+  },
+  {
+    "query": "please add a dark theme",
+    "relevant_labels": [
+      "feature_request_dark_mode"
+    ]
+  },
+  {
+    "query": "meal delivered cold",
+    "relevant_labels": [
+      "food_cold"
+    ]
+  }
+]
